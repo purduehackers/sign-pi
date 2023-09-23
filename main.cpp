@@ -3,20 +3,20 @@
 #include <hardware/pwm.h>
 
 const size_t BLOCK_1_BLUE = 0;
-const size_t BLOCK_1_GREEN = 1;
-const size_t BLOCK_1_RED = 2;
+const size_t BLOCK_1_RED = 1;
+const size_t BLOCK_1_GREEN = 2;
 const size_t BLOCK_2_BLUE = 3;
-const size_t BLOCK_2_GREEN = 4;
-const size_t BLOCK_2_RED = 5;
+const size_t BLOCK_2_RED = 4;
+const size_t BLOCK_2_GREEN = 5;
 const size_t BLOCK_3_BLUE = 6;
-const size_t BLOCK_3_GREEN = 7;
-const size_t BLOCK_3_RED = 8;
+const size_t BLOCK_3_RED = 7;
+const size_t BLOCK_3_GREEN = 8;
 const size_t BLOCK_4_BLUE = 9;
-const size_t BLOCK_4_GREEN = 10;
-const size_t BLOCK_4_RED = 11;
+const size_t BLOCK_4_RED = 10;
+const size_t BLOCK_4_GREEN = 11;
 const size_t BLOCK_5_BLUE = 12;
-const size_t BLOCK_5_GREEN = 13;
-const size_t BLOCK_5_RED = 14;
+const size_t BLOCK_5_RED = 13;
+const size_t BLOCK_5_GREEN = 14;
 
 /*
 LAYOUT: (TOP)
